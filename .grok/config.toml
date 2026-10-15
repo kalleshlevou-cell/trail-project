@@ -1,0 +1,9 @@
+# concord:mcp-start
+[mcp_servers.concord]
+command = "concord-mcp"
+args = []
+enabled = true
+
+[mcp_servers.concord.env]
+CONCORD_REPO_ROOT = "C:\\Users\\giris\\Desktop\\New folder (4)"
+# concord:mcp-end

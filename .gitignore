@@ -1,0 +1,6 @@
+node_modules/
+.env
+dist/
+.concord/concord.db
+.concord/concord.db-shm
+.concord/concord.db-wal
